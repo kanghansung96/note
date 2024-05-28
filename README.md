@@ -40,4 +40,6 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o` 를 누릅�
 |로또|`1`부터 `45`개|
 |두자리 정수|`10`부터`90`개|  
 
-난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인가능
+난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인가능  
+
+![카지노](https://www.ramadajeju.co.kr/RamadaPlazaJeju_common/images/homepage/facilities/CASINO03.jpg)
