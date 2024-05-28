@@ -42,6 +42,9 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o` 를 누릅�
 
 난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인가능  
 
-![카지노](https://www.ramadajeju.co.kr/RamadaPlazaJeju_common/images/homepage/facilities/CASINO03.jpg)
+![카지노](https://www.ramadajeju.co.kr/RamadaPlazaJeju_common/images/homepage/facilities/CASINO03.jpg)  
+
+오늘도 연봉이 10원 올랐다.
+![굿](./kakao.gif)
 
 
