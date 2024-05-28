@@ -15,3 +15,11 @@
 ```java
 Random r = new Random();
 ```
+
+이 도구를 사용학 위해서는 import가 필요합니다.
+
+```java
+import java.util.Random;
+```
+
+import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o` 를 누릅니다.
